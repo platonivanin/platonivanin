@@ -26,7 +26,7 @@ Despite my young age, I already have hands-on experience with professional tools
 ### 🛠 Tools & Technologies  
 `VS Code` · `Vitest` · `Jest` · `Vite` · `Webpack` · `Pinia` · `Element Plus` · `ESLint` ·  
 `Sass` · `Emmet` · `Lighthouse` · `HTML5` · `CSS3` · `JavaScript` · `TypeScript` ·  
-`React` · `Vue 3` · `REST API` · `GitHub` · `GitLab` · `Figma` · `Chrome DevTools`  
+`Vue 3` · `REST API` · `GitHub` · `GitLab` · `Figma` · `Chrome DevTools` · 
 
 ---
 
